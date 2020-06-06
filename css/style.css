@@ -1,0 +1,37 @@
+.navbar{
+    background-color:#D50000 !important;
+    
+}
+.nav-link{
+    color: #ffffff !important;
+    font-weight: bold !important;
+}
+.card{
+    text-align: center;
+    width: 250px;
+    height: auto;
+    margin-bottom: 5px;
+    
+}
+.btn-primary{
+    width: 100%;
+    background-color:#D50000 !important;
+}
+.card-text{
+    font-weight: bold;
+}
+.heading{
+    text-align: center;
+    margin-top: 10px;
+    color: #D50000 !important;
+    font-weight: bold;
+}
+.footer{
+    width: 100%;
+    background-color:#D50000 !important;
+    height: 70px;
+    
+}
+.footer > div{ 
+    text-align: center;
+}
